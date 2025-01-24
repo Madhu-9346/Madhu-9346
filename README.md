@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhu-9346
 - 👀 I’m interested in Full Stack Developer and QA Testing.
-- 🌱 I’m currently learning Full Stcak.
+- 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate on Full Stack Developer and QA Testing.
 - 📫 How to reach me Ponnalamadhu2001@gmail.com
 - 😄 Pronouns: Mr. Madhu
